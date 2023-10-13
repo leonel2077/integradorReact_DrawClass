@@ -1,5 +1,5 @@
 import React from 'react';
-import DrawClass from './components/DrawClass'; // Asegúrate de importar el componente
+import DrawClass from './components/DrawClass';
 
 const CLASS_UML = {
   name: 'Person',
